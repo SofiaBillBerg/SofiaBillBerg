@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @SofiaBillBerg
 - 👀 I’m interested in research and hope to be able to combine my earlier academic studies in health science when I´m done with my programming education. Also, a dedicated martial artist
-- 🌱 I’m currently learning Python and C#
+- Education:
+     - Degree of Bachelor of Science in Physiotherapy
+     - Master's in evidence-basing with a focus on physiotherapy
+     - Current studies in Data Science
+- 🌱 Coding in Python and R 
 - 💞️ I’m looking to collaborate on future AI development to acceralte health and life science 
 - 📫 How to reach me through messeges or mail maybe
 - 😄 Pronouns: She/her
